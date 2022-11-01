@@ -121,8 +121,14 @@
   <data name="empty" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\empty.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="empty_total" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\empty_total.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="full" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\full (1).ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="full_total" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\full_total.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="stage1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\stage1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -135,5 +141,35 @@
   </data>
   <data name="stage4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\full.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="state0_charge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\state0_charge.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="state0_discharge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\state0_discharge.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="state1_charge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\state1_charge.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="state1_discharge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\state1_discharge.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="state2_charge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\state2_charge.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="state2_discharge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\state2_discharge.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="state3_charge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\state3_charge.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="state3_discharge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\state3_discharge.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="state4_charge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\state4_charge.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="state4_discharge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\state4_discharge.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
